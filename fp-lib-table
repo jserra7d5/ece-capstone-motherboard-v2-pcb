@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RR511D1121")(type "KiCad")(uri "${KIPRJMOD}/RR511D1121.pretty")(options "")(descr ""))
+  (lib (name "AONR21307")(type "KiCad")(uri "${KIPRJMOD}/AONR21307.pretty")(options "")(descr ""))
+  (lib (name "SWM")(type "KiCad")(uri "${KIPRJMOD}/SWM.pretty")(options "")(descr ""))
+)

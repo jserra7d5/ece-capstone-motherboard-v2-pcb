@@ -1,0 +1,22 @@
+# KiCad lock files
+~*.lck
+
+# KiCad autosave files
+_autosave-*
+\#auto_saved_files\#
+
+# KiCad local settings (user-specific, regenerated on open)
+*.kicad_prl
+
+# KiCad footprint cache (large binary, regenerated)
+fp-info-cache
+
+# KiCad backup files
+*.bak
+*-backups/
+
+# Duplicate/old component library copies
+GSB1C41110SSHR/GSB1C41110SSHR(1)/
+
+# macOS
+.DS_Store
