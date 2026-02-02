@@ -3720,7 +3720,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "ESP32-C6:E"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7089,7 +7089,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ESP32-C6:E"
 			(at 194.31 44.45 0)
 			(effects
 				(font
@@ -7806,7 +7806,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SWM:IND_BOURNS_SRN6045"
 			(at 129.54 87.63 0)
 			(effects
 				(font
@@ -8354,7 +8354,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SWM:IND_BOURNS_SRR1210"
 			(at 129.54 62.23 0)
 			(effects
 				(font
