@@ -8813,7 +8813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:HUSB238A_002D"
+		(property "Footprint" "SWM:HUSB238A_002D"
 			(at 57.15 156.21 0)
 			(effects
 				(font
