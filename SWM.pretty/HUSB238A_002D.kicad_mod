@@ -56,51 +56,11 @@
 		(end 2.1 1.75)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "Margin")
+		(layer "F.CrtYd")
 		(uuid "8d591227-962e-4292-a5cd-092138febe2e")
-	)
-	(fp_line
-		(start -2.13 1.38)
-		(end -2.13 -1.38)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "f69aada0-a860-43d2-bc3e-43a38b0f5a4d")
-	)
-	(fp_line
-		(start -1.75 -1.75)
-		(end 1.75 -1.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "ed3f8fc8-75dc-455c-bd64-fa6f20be87c1")
-	)
-	(fp_line
-		(start 1.75 1.75)
-		(end -1.75 1.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "83461ad9-080e-47bc-9bee-314d8eb9063d")
-	)
-	(fp_line
-		(start 2.13 -1.38)
-		(end 2.13 1.38)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "b3a85b60-d612-4528-b1a0-34256696c603")
 	)
 	(fp_circle
 		(center -1.55 -1.45)

@@ -4,4 +4,5 @@
   (lib (name "AONR21307")(type "KiCad")(uri "${KIPRJMOD}/AONR21307.pretty")(options "")(descr ""))
   (lib (name "SWM")(type "KiCad")(uri "${KIPRJMOD}/SWM.pretty")(options "")(descr ""))
   (lib (name "ESP32-C6")(type "KiCad")(uri "${KIPRJMOD}/ESP32-C6.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/ul_TYPE-C-31-M-12/KiCADv6/footprints.pretty")(options "")(descr ""))
 )
