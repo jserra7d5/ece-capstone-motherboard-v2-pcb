@@ -1,22 +1,62 @@
-# KiCad lock files
+# KiCAD lock files
 ~*.lck
+*.lck
 
-# KiCad autosave files
+# KiCAD autosave files
 _autosave-*
 \#auto_saved_files\#
 
-# KiCad local settings (user-specific, regenerated on open)
+# KiCAD local settings (user-specific, regenerated on open)
 *.kicad_prl
 
-# KiCad footprint cache (large binary, regenerated)
+# KiCAD footprint cache (large binary, regenerated)
 fp-info-cache
 
-# KiCad backup files
+# KiCAD backup files
+*.kicad_pcb-bak
+*.kicad_sch-bak
 *.bak
 *-backups/
+*.tmp
+*~
+*.swp
+
+# Gerber files
+*.gbr
+*.gbrjob
+*.drl
+
+# BOM and position files
+*.csv
+*.xlsx
+!fp-lib-table
+!sym-lib-table
+
+# Position files
+*-pos.csv
+*.pos
+
+# Fabrication output directories
+fab/
+gerbers/
+fabrication/
+
+# Component datasheets and downloads
+ul_*/
+datasheets/
 
 # Duplicate/old component library copies
 GSB1C41110SSHR/GSB1C41110SSHR(1)/
 
+# Documentation exports
+*.pdf
+
+# Compressed archives
+*.zip
+*.rar
+
 # macOS
 .DS_Store
+
+# Lock files from LibreOffice/Excel
+.~lock.*
